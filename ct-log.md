@@ -1140,9 +1140,3 @@
 * [`v236xhqtyullodhf26szyjepvkbv6iitrhjgrqj4avaoukebkk6n6syd.onion`](https://v236xhqtyullodhf26szyjepvkbv6iitrhjgrqj4avaoukebkk6n6syd.onion) [eotk?](https://v236xhqtyullodhf26szyjepvkbv6iitrhjgrqj4avaoukebkk6n6syd.onion/hello-onion/)
   * date=2025-05-13 not_before=2025-05-13 not_after=2026-05-13
   * **harica dv tls ecc**
-* [`kiwifarmsaaf4t2h7gc3dfc5ojhmqruw2nit3uejrpiagrxeuxiyxcyd.onion`](https://kiwifarmsaaf4t2h7gc3dfc5ojhmqruw2nit3uejrpiagrxeuxiyxcyd.onion) [eotk?](https://kiwifarmsaaf4t2h7gc3dfc5ojhmqruw2nit3uejrpiagrxeuxiyxcyd.onion/hello-onion/)
-  * date=2025-05-11 not_before=2025-05-10 not_after=2026-05-10
-  * **harica dv tls rsa**
-* `*.kiwifarmsaaf4t2h7gc3dfc5ojhmqruw2nit3uejrpiagrxeuxiyxcyd.onion`
-  * date=2025-05-11 not_before=2025-05-10 not_after=2026-05-10
-  * **harica dv tls rsa**
