@@ -756,9 +756,6 @@
 * [`sup6h5iyiyenvjkfxbgrjynm5wsgijjoatvnvdgyyi7je3xqm4kh6uqd.onion`](https://sup6h5iyiyenvjkfxbgrjynm5wsgijjoatvnvdgyyi7je3xqm4kh6uqd.onion) [eotk?](https://sup6h5iyiyenvjkfxbgrjynm5wsgijjoatvnvdgyyi7je3xqm4kh6uqd.onion/hello-onion/)
   * date=2025-12-22 not_before=2025-12-17 not_after=2026-12-17
   * **harica dv tls rsa**
-* [`dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion`](https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion) [eotk?](https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion/hello-onion/)
-  * date=2025-11-16 not_before=2025-07-25 not_after=2026-08-14
-  * **digicert ev rsa ca g2**
 * [`polar6264tpzrdlm4zskrt6daedffgr7veatrcfqw6i5u7jsql3365qd.onion`](https://polar6264tpzrdlm4zskrt6daedffgr7veatrcfqw6i5u7jsql3365qd.onion) [eotk?](https://polar6264tpzrdlm4zskrt6daedffgr7veatrcfqw6i5u7jsql3365qd.onion/hello-onion/)
   * date=2025-11-08 not_before=2025-11-08 not_after=2026-11-08
   * **harica dv tls rsa**
